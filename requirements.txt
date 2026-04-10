@@ -1,0 +1,7 @@
+RealtimeSTT
+keyboard
+pyautogui
+pyperclip
+pywin32
+sounddevice
+numpy
